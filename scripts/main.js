@@ -16,7 +16,7 @@ if ('serviceWorker' in navigator && 'PushManager' in window) {
 }
 
 'use strict';
-const applicationServerPublicKey = 'BFIKR7D7sp-v4ogJVEh7Y1_RO7rVs1hM5tRDAEOfeS0Zo-l7Rrvqf7vI_hRPWfpg2ZGfD9F81ENtgKx_05T95C4';
+const applicationServerPublicKey = '<BFIKR7D7sp-v4ogJVEh7Y1_RO7rVs1hM5tRDAEOfeS0Zo-l7Rrvqf7vI_hRPWfpg2ZGfD9F81ENtgKx_05T95C4>';
 const pushButton = document.querySelector('.js-push-btn');
 let isSubscribed = false;
 let swRegistration = null;
