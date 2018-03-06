@@ -23,7 +23,7 @@
 
 /* eslint-disable max-len */
 
-const applicationServerPublicKey = 'BH9LfMdXY40xpkhbDHDzeuYEsz_huA7MXnDAGfcV1TX64PdAhjp8MGFdeA-LyDFk4t4zPJCClQdkvUxkFLaWzJU';
+const applicationServerPublicKey = 'BHexfq_wOBgjOHyB2eqsYlXJLuLSnDbhe0qMNgMFdLQzf-dHaSBqyIdA-XZU1VfZdpm_7yXAfZxsLIZGdP0xgYk';
 
 /* eslint-enable max-len */
 
