@@ -25,9 +25,9 @@ self.addEventListener('push', function(event) {
   console.log('[Service Worker] Push Received.');
   console.log(`[Service Worker] Push had this data: "${event.data.text()}"`);
 
-  const title = 'Push Codelab';
+  const title = 'Push Сообщение:';
   const options = {
-    body: 'Privet GONA !!!! 2018',
+    body: 'Privet GOИA !!!! 2018 Хорошего Дня!',
     icon: 'push/images/icon.png',
     badge: 'push/images/badge.png'
   };
