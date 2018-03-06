@@ -27,7 +27,7 @@ self.addEventListener('push', function(event) {
 
   const title = 'Push Сообщение:';
   const options = {
-    body: 'Privet GOBA !!!! 2018 Хорошего Дня! "${event.data.text()}"',
+    body: 'Privet GOBA !!!! 2018 Хорошего Дня!' "${event.data.text()}",
     icon: 'push/images/icon.png',
     badge: 'push/images/badge.png'
   };
