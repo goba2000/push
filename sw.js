@@ -27,7 +27,7 @@ self.addEventListener('push', function(event) {
 
   const title = 'Push Codelab';
   const options = {
-    body: 'Yay it works.',
+    body: 'Privet GONA !!!! 2018',
     icon: 'push/images/icon.png',
     badge: 'push/images/badge.png'
   };
